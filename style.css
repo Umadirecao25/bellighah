@@ -1,0 +1,15 @@
+@charset "utf-8";
+ 
+body{
+    text-align: center;
+    background-image: url(https://www.thesun.co.uk/wp-content/uploads/2023/10/jude-bellingham-player-real-madrid-850835010.jpg);
+    background-size: cover;
+    img{
+        width: 7%;
+        height:7% ;
+    }
+}
+
+input{
+    background-color: #b5b800;
+}
